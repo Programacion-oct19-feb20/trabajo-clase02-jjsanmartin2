@@ -1,0 +1,7 @@
+Introducción a la programación
+
+Algoritmos:
+
+los algoritmos son un conjunto de pasos finitos que se sigue para dar la solucion a un problema, este mismo suele estar comunmente  escrito en un lenguaje natural que significa que es comprensible antes todos.
+
+Este mismo algoritmo es el que provoca que el programa ejecute las acciones que un principio son muy complicadas y por ende las especificaciones son muy detalladas, es ahí donde nacen las miniespecificaiones o pseudocódigo que son aquellos que coplementan fundamentalmente a un algoritmo de programación.
